@@ -17,6 +17,5 @@ avg()
 # This is my new repo
 
 # This is a new feature, very very important for students 
-
 # This is a new feature for devops basic to Advance
 
