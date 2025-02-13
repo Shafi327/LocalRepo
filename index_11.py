@@ -19,5 +19,5 @@ avg()
 # This is a new feature, very very important for students 
 # This is a new feature for devops basic to Advance
 
-# Today i learn git stash
+# Today i learn git stash this is new future
 
